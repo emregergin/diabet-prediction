@@ -43,8 +43,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak isterseniz:
 Projenin tüm adımlarını ve analizleri görmek için `0-Test12.ipynb` adlı Jupyter Notebook dosyasında hücreleri teker teker çalıştırabilirsiniz.
 
 ## 📚 Kullanılan Kütüphaneler
-* [cite_start]`numpy` [cite: 1]
-* [cite_start]`pandas` [cite: 1]
-* [cite_start]`matplotlib` [cite: 1]
-* [cite_start]`seaborn` [cite: 1]
-* [cite_start]`scikit-learn` [cite: 1]
+* `numpy`
+* `pandas`
+* `matplotlib`
+* `seaborn`
+* `scikit-learn`
