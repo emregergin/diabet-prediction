@@ -28,7 +28,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak isterseniz:
 
 1.  **Repository'yi Klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADINIZ/diabet-prediction.git](https://github.com/KULLANICI_ADINIZ/diabet-prediction.git)
+    git clone [https://github.com/emregergin/diabet-prediction.git](https://github.com/emregergin/diabet-prediction.git)
     cd diabet-prediction
     ```
 
