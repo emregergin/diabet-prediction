@@ -40,7 +40,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak isterseniz:
 
 ## 🚀 Kullanım
 
-Projenin tüm adımlarını ve analizleri görmek için `0-Test12.ipynb` adlı Jupyter Notebook dosyasında hücreleri teker teker çalıştırabilirsiniz.
+Projenin tüm adımlarını ve analizleri görmek için `diabet-prediction.ipynb` adlı Jupyter Notebook dosyasında hücreleri teker teker çalıştırabilirsiniz.
 
 ## 📚 Kullanılan Kütüphaneler
 * `numpy`
